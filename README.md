@@ -1,4 +1,4 @@
-Sending Email in Android(using PHP)**bold**
+Sending Email in Android(using PHP)
 
 Note:
 1. Host your PHP file on a server. For this you can use "000webhost.com"
