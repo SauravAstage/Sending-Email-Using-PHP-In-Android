@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendingEmailUsingPHPInAndroid</string>
+    <string name="subject">Subject:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="compose_email">Compose email</string>
+    <string name="send">SEND</string>
+</resources>
